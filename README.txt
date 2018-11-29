@@ -1,13 +1,16 @@
 # School-Project
+
 Topic - Artificial intelligence
+
 Member 1 Samyak
 2 Arnav 
 3 Vaibhav 
-4 Dev 
+4 Dev
 5 Vidushi
 6 Pallavi
 
-Works
+
+# Work
 Samyak - Homepage
 Arnav - Ai scene detection in phones
 Vaibhav - Google assistant
