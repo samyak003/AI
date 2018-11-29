@@ -16,5 +16,5 @@ Vidushi - Advantages of Ai
 Pallavi - Disadvantages of Ai
 
 
-Website template uploaded soon
+Website template to be ipoaded soon
 
