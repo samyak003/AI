@@ -30,9 +30,9 @@ Arnav - 1) Create the webpage (both themes)
 2) Rename the file to AiCamera_light.html , AiCamera_dark.html
 3) Rename the image to camera.jpeg
 4) Add this line at the end of content (light)
-<br><a href="google_dark.html">Switch to dark mode</a href>
+<br><a href="camera_dark.html">Switch to dark mode</a href>
 5) Add this line at the end of content (dark)
-<br><a href="google_light.html">Switch to light mode</a href>
+<br><a href="camera_light.html">Switch to light mode</a href>
 
 Vaibhav - 1) Create the webpage (both themes)
 2) Rename the file to google_light.html , google_light.html
